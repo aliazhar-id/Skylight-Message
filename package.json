@@ -1,0 +1,22 @@
+{
+  "name": "skylight-message",
+  "version": "1.0.0",
+  "description": "Skylight Project Message/Info API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Message",
+    "Information",
+    "API",
+    "Skylight",
+    "Saveone"
+  ],
+  "author": "aliazhar-id",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "@hapi/hapi": "^20.2.2"
+  }
+}
